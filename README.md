@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi guys!!
+Today is great. I'm continuing study Python by myself.
